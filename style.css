@@ -31,8 +31,8 @@ body {
 
   For more colors, see: http://www.html-color-names.com/color-chart.php
   */
-  background-color: #00FF00; /* this is the background color of the page */
-  color: #DA4930; /* this is the default color of text on the page */
+  background-color: #FF00FF; /* this is the background color of the page */
+  color: #FF00FF; /* this is the default color of text on the page */
   font-family: "normal 400", sans-serif; /* this is the default font on the page */
   text-align: center; /* this centers text on the page */
 }
